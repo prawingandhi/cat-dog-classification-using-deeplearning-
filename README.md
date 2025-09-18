@@ -28,4 +28,20 @@ The model was trained on a labeled dataset of cat and dog images. It uses basic 
 
 ## 📁 Project Structure
 
+## 🧪 Try It Yourself
+
+1. Pre-Install the Requirements:
+   ```bash
+   pip install -r requirements.txt
+
+
+2. Clone the repo:
+   ```bash
+   git clone https://github.com/prawingandhi/cat-dog-classification-using-deeplearning-.git
+   cd catdog-env
+
+1. Run the app:
+   ```bash
+   streamlit run app.py
+
 
